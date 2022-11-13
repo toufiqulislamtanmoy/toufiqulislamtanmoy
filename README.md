@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toufiqulislamtanmoy" alt="toufiqulislamtanmoy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/tittanmoy" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/tittanmoy?logo=twitter&style=for-the-badge" alt="https://twitter.com/tittanmoy" /></a> </p>
+
 
 - 🔭 I’m currently working on **Offline Worker Management System**
 
