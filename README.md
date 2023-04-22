@@ -5,7 +5,7 @@ I'm Toufiqul Islam Tanmoy, a software developer who loves to build web applicati
 ## 🌱 I’m currently learning:
 
 - <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> Advanced JavaScript
-- <img align="center" alt="Artificial Intelligence" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/artificialintelligence/artificialintelligence-original.svg" /> Artificial Intelligence
+- <img align="center" alt="Artificial Intelligence" width="26px" src="https://img.freepik.com/free-vector/robotic-artificial-intelligence-technology-smart-lerning-from-bigdata_1150-48136.jpg?w=996&t=st=1682147275~exp=1682147875~hmac=975c2dfa0c9c6e756aecee656bd48517f0055ae393932e8533c3eb4be71af253" /> Artificial Intelligence
 - <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> React
 
 --------------------------
