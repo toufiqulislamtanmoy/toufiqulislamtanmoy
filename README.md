@@ -16,9 +16,10 @@ I'm Toufiqul Islam Tanmoy, a software developer who loves to build web applicati
 
 ## 📫 How to reach me:
 
-- Email: tittanmoy@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tittanmoy@gmail.com)
 
-## 🤝 Connect with me:
+
+## 🤝 Find me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/md-toufiqul-islam-52a4021b4/)](https://www.linkedin.com/in/md-toufiqul-islam-52a4021b4/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/toufiqulislamtanmoy)](https://www.facebook.com/toufiqulislamtanmoy)
