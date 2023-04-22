@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Toufiqul Islam Tanmoy</h1>
-<h3 align="center">I am a learner</h3>
+# Hi there 👋,
+
+I'm Toufiqul Islam Tanmoy, a software developer who loves to build web applications. Currently, I'm working on an Offline Worker Management System. I'm passionate about learning new technologies and currently, I'm focusing on Advanced JavaScript, Artificial Intelligence, and React.
+
+## 🌱 I’m currently learning:
+
+- <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> Advanced JavaScript
+- <img align="center" alt="Artificial Intelligence" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/artificialintelligence/artificialintelligence-original.svg" /> Artificial Intelligence
+- <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> React
+
+--------------------------
 
 ![](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/309207712_1184011572491015_8610831197684875285_n.jpg?stp=dst-jpg_p960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGC2F5X_sOcRmthCBFvwdgKdqKyOPKgH0V2orI48qAfRW5vPJ-26qz-GlxqCQOsYpUTyNDHN-R8Cf3Ve131t9ah&_nc_ohc=56swdcntOTwAX-7rslI&_nc_ht=scontent.fdac5-2.fna&oh=00_AfCsDI2a1PIem2LoXPP2C9fe_vxgFJI8oXhOnnyr8b9uOw&oe=637703B6)
 
