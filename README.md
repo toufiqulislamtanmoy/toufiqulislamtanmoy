@@ -10,6 +10,23 @@ I'm Toufiqul Islam Tanmoy, a software developer who loves to build web applicati
 
 --------------------------
 
+## 🔭 I’m currently working on:
+
+- Offline Worker Management System
+
+## 📫 How to reach me:
+
+- Email: tittanmoy@gmail.com
+
+## 🤝 Connect with me:
+
+- [LinkedIn](https://www.linkedin.com/in/toufiqul-islam-tanmoy/)
+- [Twitter](https://twitter.com/ToufiqulIslamT2)
+- [GitHub](https://github.com/toufiqul-islam-tanmoy)
+
+
+---------------------------------
+
 ![](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/309207712_1184011572491015_8610831197684875285_n.jpg?stp=dst-jpg_p960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGC2F5X_sOcRmthCBFvwdgKdqKyOPKgH0V2orI48qAfRW5vPJ-26qz-GlxqCQOsYpUTyNDHN-R8Cf3Ve131t9ah&_nc_ohc=56swdcntOTwAX-7rslI&_nc_ht=scontent.fdac5-2.fna&oh=00_AfCsDI2a1PIem2LoXPP2C9fe_vxgFJI8oXhOnnyr8b9uOw&oe=637703B6)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiqulislamtanmoy&label=Profile%20views&color=0e75b6&style=flat" alt="toufiqulislamtanmoy" /> </p>
