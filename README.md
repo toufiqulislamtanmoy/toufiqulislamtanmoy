@@ -20,9 +20,9 @@ I'm Toufiqul Islam Tanmoy, a software developer who loves to build web applicati
 
 ## 🤝 Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/toufiqul-islam-tanmoy/)
-- [Twitter](https://twitter.com/ToufiqulIslamT2)
-- [GitHub](https://github.com/toufiqul-islam-tanmoy)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/md-toufiqul-islam-52a4021b4/)](https://www.linkedin.com/in/md-toufiqul-islam-52a4021b4/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/toufiqulislamtanmoy)](https://www.facebook.com/toufiqulislamtanmoy)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/toufiqulislamtanmoy)](https://github.com/toufiqulislamtanmoy)
 
 
 ---------------------------------
