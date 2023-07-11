@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Toufiqul Islam Tanmoy</h1>
 <h3 align="left">Web Developer</h3>
-I'm an enthusiastic and dedicated 4th-year Computer Science Engineering (CSE) student with a passion for building responsive and user-friendly websites using React. With hands-on experience in front-end development and proficiency in tools like Visual Studio Code, Git, and npm, I'm eager to contribute to web development projects.
+Enthusiastic and dedicated 4th-year CSE student with hands-on experience in building responsive and user-friendly websites using React. Proficient in front-end development tools including Visual Studio Code, Git, and npm. Seeking an opportunity to apply my strong React skills and contribute to web development projects
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiqulislamtanmoy&label=Profile%20views&color=0e75b6&style=flat" alt="toufiqulislamtanmoy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toufiqulislamtanmoy" alt="toufiqulislamtanmoy" /></a> </p>
