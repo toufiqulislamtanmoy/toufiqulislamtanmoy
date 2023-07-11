@@ -1,3 +1,5 @@
+[![Banner](https://i.ibb.co/YBMjjpC/Toufiqul-Profile-Banner.png)]
+
 <h1 align="center">Hi 👋, I'm Toufiqul Islam Tanmoy</h1>
 <h3 align="center">Jr. MERN Stack Developer</h3>
 
