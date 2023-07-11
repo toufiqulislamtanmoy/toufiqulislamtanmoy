@@ -1,7 +1,7 @@
 ![Banner](https://i.ibb.co/YBMjjpC/Toufiqul-Profile-Banner.png)
 
-<h1 align="center">Hi 👋, I'm Toufiqul Islam Tanmoy</h1>
-<h3 align="center">Web Developer</h3>
+<h1 align="left">Hi 👋, I'm Toufiqul Islam Tanmoy</h1>
+<h3 align="left">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiqulislamtanmoy&label=Profile%20views&color=0e75b6&style=flat" alt="toufiqulislamtanmoy" /> </p>
 
