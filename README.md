@@ -2,7 +2,9 @@
 
 <h1 align="left">Hi 👋, I'm Toufiqul Islam Tanmoy</h1>
 <h3 align="left">Web Developer</h3>
-Enthusiastic and dedicated 4th-year CSE student with hands-on experience in building responsive and user-friendly websites using React. Proficient in front-end development tools including Visual Studio Code, Git, and npm. Seeking an opportunity to apply my strong React skills and contribute to web development projects
+A motivated, newly graduated Computer Science professional with a strong background in full-stack web
+development, proficient in React.js, PHP, and Express.js. Excellent written and verbal communication skills with a knack
+for problem-solving. Eager to contribute to innovative projects and collaborate in dynamic team environments.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
