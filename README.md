@@ -3,14 +3,7 @@
 
 A motivated, newly graduated Computer Science professional with a       strong background in full-stack web development, proficient in          React.js, PHP, and Express.js. Excellent written and verbal          communication skills with a knack for problem-solving. Eager to         contribute to innovative projects and collaborate in dynamic team       environments.
 
-# Connect with me
-<p align="center">
-<a href="https://www.linkedin.com/in/md-toufiqul-islam-tanmoy-52a4021b4-web-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="t-i-t-tanmoy-52a4021b4" height="40" width="40" /></a>
-<a href="https://www.facebook.com/toufiqulislamtanmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="htoufiqulislamtanmoy" height="40" width="40" /></a>
-<a href="https://www.instagram.com/mr.tanmoy120/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="httpsmr.tanmoy120" height="40" width="40" /></a>
-<a href="https://toufiqulislamtanmoy.web.app/" target="blank"><img align="center" src="https://i.ibb.co/ZMCQp2y/www.png" alt="httpsmr.tanmoy120" height="40" width="40" /></a>
-</p>
-
+# Total Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiqulislamtanmoy&label=Profile%20views&color=0e75b6&style=flat" alt="toufiqulislamtanmoy" /> </p>
 
 
